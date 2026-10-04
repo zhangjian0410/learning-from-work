@@ -8,7 +8,7 @@
 
 本仓库是唯一维护源，维护者和同事使用同一份 Skill。个人的材料位置、允许读取的范围、调度时间和复盘产物留在各自工作区。更新这里的能力，不需要同步另一个个人版。
 
-从 [v0.1.0 发布页](https://github.com/zhangjian0410/distilling-task-learning/releases/tag/v0.1.0) 下载 `distilling-task-learning-v0.1.0.zip`，解压后使用整个 `distilling-task-learning` 文件夹。同事协作时采用同一发布版本；升级后保留原任务记录。熟悉 Git 的用户也可以检出同名 tag，日常开发直接在本仓库进行。
+从 [v0.1.1 发布页](https://github.com/zhangjian0410/distilling-task-learning/releases/tag/v0.1.1) 下载 `distilling-task-learning-v0.1.1.zip`，解压后使用整个 `distilling-task-learning` 文件夹。同事协作时采用同一发布版本；升级后保留原任务记录。熟悉 Git 的用户也可以检出同名 tag，日常开发直接在本仓库进行。
 
 ## 开始使用
 
@@ -44,6 +44,10 @@
 结果包括值得保留的结论、来源、适用范围、开放问题和下一步。有修改价值时，给出针对现有清单或方法的具体差异，供你审阅；请求复盘本身不等于请求修改正式规则。
 
 同一事件出现在三份文件里仍是一个事件。同一任务重试两次仍是一个任务。已有规则覆盖的要求会标明出处；新增建议会说明边界。提出候选、应用修改、后续复用与效果改善，各自需要对应证据。
+
+## 可选：连接个人记忆
+
+已有个人 Context 或项目笔记时，可按[组合说明](references/context-integration.md)提供来源、现行做法和已有授权，让整理结果进入合适的记忆位置。此集成不增加使用前提，也不改变业务审批合同。
 
 ## 能力与验证范围
 
